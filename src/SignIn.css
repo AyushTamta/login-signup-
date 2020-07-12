@@ -1,0 +1,164 @@
+.wrapper {
+  box-sizing: border-box;
+  display: flex;
+  margin-top: 200px;
+  justify-content: center;
+
+}
+
+.form-wrapper {
+  width: 400px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 40px;
+  background: #F2F7F5;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+
+
+  background: #f2f7f5;
+}
+
+
+
+.med{
+  width: 580.9px;
+height: 670px;
+left: 626px;
+margin-top:-36px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  }  
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-left: 0px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.015em;
+  text-align: left;
+}
+
+h1l {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-left: 0px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.015em;
+  text-align: left;
+}
+
+
+
+
+
+
+
+.text-box{
+  background-color: white;
+  width: 80%;
+  margin-right: -40px;
+  
+}
+
+.button {
+
+  width: 136px;
+height: 44px;
+margin-left: 250px;
+
+
+background: #575F7A;
+border-radius: 6px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.button:hover {
+  color: black;
+  background-color:cadetblue ;
+  border: 2px solid white;
+}
+
+.forgot{
+  width: 208px;
+height: 23px;
+left: 274px;
+top: 571px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+
+color: #5CA4A9;
+}
+
+
+.account{
+  width: 230px;
+  height: 22px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.015em;
+  
+  color: #575F7A;
+}
+
+
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+  .med{
+    max-width: 0px;
+
+  }
+
+  
+.wrapper {
+  box-sizing: border-box;
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+
+}
+
+
+}
+
+
+
+
+
+
+
+
